@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape.CSharp.Plugins", "Escape.CSharp.Plugins.csproj", "{D5E53BBD-B477-A055-28B2-E38AF74F18D1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape.CSharp", "Escape.CSharp.csproj", "{A8302920-C8C0-FF72-EEC6-F82657B9D68E}"
